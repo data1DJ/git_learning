@@ -1,0 +1,5 @@
+*temp*
+#do not work temp files
+*.zip
+*.gz
+bin/
