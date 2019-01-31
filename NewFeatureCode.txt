@@ -1,0 +1,4 @@
+This would be the file being added for the New Feature branch.
+It would contain code for the feature functionality we would be adding.
+We're creating it in the git_learning directory after git checkout new_feature
+Now we'll save it, stage it, commit it and push up to remote.
